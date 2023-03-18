@@ -1,1 +1,1 @@
-FROM npt13/clonebotMsGsuite
+FROM npt13/msgsuite
